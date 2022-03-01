@@ -2,7 +2,7 @@
 
         This portfolio contains my personal details , technical skills, projects worked and showcases for validate my skills.
 
-Portfolio hosted in : https://pedantic-sinoussi-5dd031.netlify.app/
+Portfolio hosted in : https://portfolio-veerarajan-karunanithi.netlify.app/
 
 ## Technical details
         
